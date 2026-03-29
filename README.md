@@ -31,13 +31,43 @@ Generated images using GAN model.
 ##  Key Insight
 GANs can learn data distribution and generate new realistic samples.
 
-##  Results
+# GAN Image Generation
 
-### Generated Images
-![Generated](outputs/generated.png)
+![Preview](outputs/diverse_design_exploration.png)
 
-### Training Loss
-![Loss](outputs/loss.png)
+---
 
+## Results & Visualizations
+
+### Generated Airfoils
+![Generated Airfoils](outputs/generated_naca_airfoils.png)
+
+### Real vs GAN Comparison
+![Comparison](outputs/real_vs_gan_generated.png)
+
+### Design Exploration
+![Design Exploration](outputs/diverse_design_exploration.png)
+
+### Latent Space Morphing
+![Latent Space](outputs/latent_space_morphing.png)
+
+---
+
+## Training Performance
+
+![Training Loss](outputs/training-loss.png)
+
+---
+
+## Analysis Dashboards
+
+### Final Analysis
+![Final Analysis](outputs/final_analysis_dashboard.png)
+
+### Materials Visualization
+![Materials Dashboard](outputs/materials_visualization_dashboard.png)
+
+### Best Design
+![Best Design](outputs/best_design_visualization.png)
 ---
  Star this repo if you like it!
