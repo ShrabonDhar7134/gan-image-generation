@@ -12,7 +12,7 @@ This project implements Generative Adversarial Networks (GANs) to generate reali
 ##  Tech Stack
 - Python
 - TensorFlow / PyTorch
-- Jupyter Notebook
+- Google Colab
 
 ##  Files
 - gan-image-generation.ipynb → Main notebook
